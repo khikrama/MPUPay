@@ -1,0 +1,1 @@
+{"merchantID":"201104001306414","respCode":"00","pan":"629214xxxxxx0840","amount":"000000692000","invoiceNo":"11111111113228","tranRef":"384432","approvalCode":"333333","dateTime":"20220720160304","status":"AP","failReason":"Approved","userDefined1":"","userDefined2":"","userDefined3":"","categoryCode":"","hashValue":"10A5600316DF88B8C67CA70B50DA2591172D4BF5"}

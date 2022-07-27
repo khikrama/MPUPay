@@ -1,0 +1,61 @@
+[10-Jun-2022 10:31:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_order() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 13
+[10-Jun-2022 10:37:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:149
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 149
+[10-Jun-2022 10:37:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:149
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 149
+[10-Jun-2022 10:37:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:149
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 149
+[10-Jun-2022 10:43:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WC_Order' not found in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 6
+[10-Jun-2022 10:47:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 12
+[10-Jun-2022 10:49:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WC_Order' not found in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 9
+[10-Jun-2022 10:50:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WC_Order' not found in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 9
+[28-Jun-2022 00:40:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/mup-payment/order-success.php on line 6
+[28-Jun-2022 00:44:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:44:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:45:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:46:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:47:04 America/Boise] PHP Warning:  file_get_contents(/home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/aadata.txt): failed to open stream: No such file or directory in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:47:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 15
+[28-Jun-2022 00:47:29 America/Boise] PHP Warning:  file_get_contents(/home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/aadata.txt): failed to open stream: No such file or directory in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:47:55 America/Boise] PHP Warning:  file_get_contents(/home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/aadata.txt): failed to open stream: No such file or directory in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:48:40 America/Boise] PHP Warning:  file_get_contents(/home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/aadata.txt): failed to open stream: No such file or directory in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
+[28-Jun-2022 00:48:49 America/Boise] PHP Warning:  file_get_contents(/home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/aadata.txt): failed to open stream: No such file or directory in /home3/yqbcqvmy/public_html/misfit-test/lifeplusmm/wp-content/plugins/muppayment/order-success.php on line 6
